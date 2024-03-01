@@ -1,0 +1,18 @@
+step :- 1  Open your browser and search github.
+step :- 2  Now open Github.com link and sign up using your collage gmail id.(vaghasiya......@gmail.com)
+step :- 3  Now in browser search git and open git-scm.com link.
+step :- 4  After that download git bash to your respective machine.
+step :- 5  The Install the git. And chech the installition is complete or not using git --version type in your git bash.
+step :- 6  Then open your github account and login using your gmail or username.
+step :- 7  After Log in your present screen is Overview page. Go to the Repositories page and click on new button.
+step :- 8  A new page is discover in your screen. Their give the name of repositorie.(2202031000158)
+step :- 9  Scroll down and check the checkbox of add a README file.
+step :- 10  Then Click on Check Repository Button.
+step :- 11  Congratulations! Now you create your first Repository  on github.
+step :- 12  Now open you repositpory and click on Add file option and then click Create new file.
+step :- 13  When new page is show on your screen the on file name box enter Assignment_1/ and press enter.
+step :- 14  Now another box enter your fil name(git_step.txt) and write your all steps.
+step :- 15  Then on this page press Commit changes button and again press Commit changes.
+step :- 16  Then again click Add file and then Click on Upload files.
+step :- 17  Now select your all file or pdfs. And Press commit chamges.
+step :- 18  Thank You.
